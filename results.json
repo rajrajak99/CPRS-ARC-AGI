@@ -1,0 +1,48 @@
+{
+  "total_tasks": 200,
+  "baseline_accuracy": 0.0,
+  "cprs_accuracy": 100.0,
+  "avg_latency_ms": 1.4232933521270752,
+  "family_breakdown": {
+    "symmetry_completion": {
+      "solved": 40,
+      "total": 40,
+      "accuracy": 100.0
+    },
+    "gravity_dynamics": {
+      "solved": 40,
+      "total": 40,
+      "accuracy": 100.0
+    },
+    "enclosure_fill": {
+      "solved": 20,
+      "total": 20,
+      "accuracy": 100.0
+    },
+    "largest_object_extraction": {
+      "solved": 20,
+      "total": 20,
+      "accuracy": 100.0
+    },
+    "raycast_dynamics": {
+      "solved": 20,
+      "total": 20,
+      "accuracy": 100.0
+    },
+    "kronecker_scale": {
+      "solved": 20,
+      "total": 20,
+      "accuracy": 100.0
+    },
+    "boolean_mask_xor": {
+      "solved": 20,
+      "total": 20,
+      "accuracy": 100.0
+    },
+    "dynamic_color_mapping": {
+      "solved": 20,
+      "total": 20,
+      "accuracy": 100.0
+    }
+  }
+}
